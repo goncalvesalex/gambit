@@ -1,2 +1,2 @@
 # gambit
-Chess game in C with Lua bindings
+chess game in C with Lua bindings
